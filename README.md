@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves developing a functional prototype of a medical diagnosis system based on Case-Based Reasoning (CBR). The system aims to identify possible diseases based on symptoms reported by patients. The provided symptoms are compared with previous cases to identify potential diseases and recommend treatments. The application is implemented using the MyCBR tool.
+This project involves developing a functional prototype of a medical diagnosis system based on Case-Based Reasoning (CBR). The system aims to find possible diseases based on symptoms reported by patients. The provided symptoms are compared with previous cases to identify potential diseases and recommend treatments. The application is implemented using the MyCBR tool.
 
 ## Features
 
